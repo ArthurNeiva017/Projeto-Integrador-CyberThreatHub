@@ -2,7 +2,6 @@
 
 Plataforma de Monitoramento de Ameaças Cibernéticas e Grupos de Ransomware
 
----
 
 ## Sobre o Projeto
 
@@ -12,7 +11,6 @@ O objetivo do sistema é centralizar informações sobre ataques de ransomware, 
 
 A plataforma foi idealizada para apoiar analistas de **Cibersegurança** no monitoramento de ameaças e na análise de tendências relacionadas a ataques cibernéticos.
 
----
 
 ## Problema
 
