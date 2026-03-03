@@ -3,6 +3,7 @@
 Plataforma de Monitoramento de Ameaças Cibernéticas e Grupos de Ransomware
 
 
+
 ## Sobre o Projeto
 
 O **CyberThreatHub** é uma plataforma desenvolvida no contexto da disciplina **Projeto Integrador**, do curso de **Análise e Desenvolvimento de Sistemas**.
@@ -10,6 +11,7 @@ O **CyberThreatHub** é uma plataforma desenvolvida no contexto da disciplina **
 O objetivo do sistema é centralizar informações sobre ataques de ransomware, permitindo a visualização de dados sobre grupos criminosos, vítimas, países afetados e táticas utilizadas pelos atacantes.
 
 A plataforma foi idealizada para apoiar analistas de **Cibersegurança** no monitoramento de ameaças e na análise de tendências relacionadas a ataques cibernéticos.
+
 
 
 ## Problema
