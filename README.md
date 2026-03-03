@@ -1,6 +1,6 @@
 # CyberThreatHub
 
-### Plataforma de Monitoramento de Ameaças Cibernéticas e Grupos de Ransomware
+Plataforma de Monitoramento de Ameaças Cibernéticas e Grupos de Ransomware
 
 # Sobre o Projeto
 
