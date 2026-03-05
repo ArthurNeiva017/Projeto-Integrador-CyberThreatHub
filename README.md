@@ -1,35 +1,45 @@
-<h1 style="color:purple"><stronger style="color:purple">CyberThreatHub</stronger></h1>
+<h1 align="center">CyberThreatHub</h1>
 
-Plataforma de Monitoramento de Ameaças Cibernéticas 
+###
 
+<p align="center">Plataforma de Monitoramento de Ameaças Cibernéticas</p>
 
+###
 
-## Sobre o Projeto
+<h2 align="left">Problema</h2>
 
-O **CyberThreatHub** é uma plataforma desenvolvida no contexto da disciplina **Projeto Integrador**, do curso de **Análise e Desenvolvimento de Sistemas**.
+###
 
-O objetivo do sistema é centralizar informações sobre ataques de ransomware, permitindo a visualização de dados sobre grupos criminosos, vítimas, países afetados e táticas utilizadas pelos atacantes.
+<p align="left">Ataques de ransomware têm aumentado significativamente nos últimos anos, impactando empresas privadas, instituições públicas e infraestruturas críticas.<br><br>Grande parte das informações sobre esses ataques encontra-se dispersa em diversas fontes, como:
+  
+  - sites especializados em segurança
+  - feeds de notícias
+  - bases de vulnerabilidades
+  - relatórios de inteligência
+  
+Essa dispersão dificulta o monitoramento contínuo e a análise de tendências de ameaças.</p>
 
-A plataforma foi idealizada para apoiar analistas de **Cibersegurança** no monitoramento de ameaças e na análise de tendências relacionadas a ataques cibernéticos.
+###
 
+<h2 align="left">Solução</h2>
 
+###
 
-## Problema
-
-Nos últimos anos, ataques de **ransomware** se tornaram uma das principais ameaças para empresas e instituições públicas. No entanto, muitas informações sobre esses ataques encontram-se dispersas em diferentes fontes, dificultando a análise e o monitoramento eficiente.
-
-Diante desse cenário, surge a necessidade de uma plataforma que **centralize dados de ameaças cibernéticas**, facilitando a visualização e análise por profissionais da área de segurança da informação.
-
-
-
-## Objetivo do Projeto
-
-O <strong style="color:purple">**CyberThreatHub**</strong> tem como objetivo desenvolver uma plataforma web capaz de reunir e apresentar informações relevantes sobre ataques de ransomware e grupos de ameaças cibernéticas.
+<p align="left">Diante disso, surge a necessidade de uma plataforma capaz de <strong>centralizar informações de inteligência de ameaças</strong>, facilitando o acesso e a visualização desses dados.A plataforma <strong>CyberThreatHub</strong> vem com o objetivo de reunir e apresentar informações relevantes sobre ameaças cibernéticas.
 
 Entre os principais objetivos do sistema estão:
+  
+  - 🖥️Monitorar grupos de ransomware
+  - 👾Coletar dados de vulnerabilidades (CVEs)
+  - 🏢Exibir informações sobre empresas vítimas de ataques
+  - 📰Apresentar notícias recentes de segurança cibernética
+  - 📊Facilitar a análise de ameaças por profissionais de segurança</p>
+  
 
-- Monitorar grupos de ransomware
-- Coletar dados de vulnerabilidades (CVE)
-- Exibir informações sobre empresas vítimas de ataques
-- Apresentar notícias recentes de segurança cibernética
-- Facilitar a análise de ameaças por profissionais de segurança
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=008000"  />
+</div>
+
+###
