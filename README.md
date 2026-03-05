@@ -31,8 +31,8 @@ Entre os principais objetivos do sistema estão:
   
   - 🖥️Monitorar grupos de ransomware
   - 👾Coletar dados de vulnerabilidades (CVEs)
-  - 🏢Exibir informações sobre empresas vítimas de ataques
   - 📰Apresentar notícias recentes de segurança cibernética
+  - 🏢Exibir informações sobre empresas vítimas de ataques
   - 📊Facilitar a análise de ameaças por profissionais de segurança</p>
   
 
