@@ -13,8 +13,8 @@
 <p align="left">Ataques de ransomware têm aumentado significativamente nos últimos anos, impactando empresas privadas, instituições públicas e infraestruturas críticas.<br><br>Grande parte das informações sobre esses ataques encontra-se dispersa em diversas fontes, como:
   
   - feeds de notícias
-  - bases de vulnerabilidades
   - relatórios de inteligência
+  - bases de vulnerabilidades
   - sites especializados em segurança
   
 Essa dispersão dificulta o monitoramento contínuo e a análise de tendências de ameaças.</p>
