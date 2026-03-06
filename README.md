@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">O <strong>CyberThreatHub</strong> é uma ideia de plataforma no contexto da disciplina <strong>Projeto Integrador I</strong>, do curso de <strong>Análise e Desenvolvimento de Sistemas</strong>. O sistema tem como objetivo centralizar e organizar informações relacionadas a <strong>ataques de ransomware, Noticias de Cyber Security e vulnerabilidades exploradas</strong>, facilitando o monitoramento e a análise de ameaças cibernéticas.
+<p align="left">O <strong>CyberThreatHub</strong> é uma ideia de plataforma no contexto da disciplina <strong>Projeto Integrador I</strong>, do curso de <strong>Análise e Desenvolvimento de Sistemas</strong>. O sistema tem como objetivo centralizar e organizar informações relacionadas a <strong>ataques de ransomware, Noticias de Cyber<br> Security e vulnerabilidades ativas</strong>, facilitando o monitoramento e a análise de ameaças cibernéticas.
 
 A plataforma tem como intuito apoiar analistas de <strong>Cyber Threat Intelligence (CTI)</strong> na identificação de incidentes relevantes, permitindo uma visão consolidada das atividades de grupos de ransomware e das tendências de ataques em diferentes regiões.
 
