@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Descrição</h2>
+<h2 align="left">📚Descrição</h2>
 
 ###
 
@@ -16,7 +16,7 @@ A plataforma tem como intuito apoiar analistas de <strong>Cyber Threat Intellige
 
 ###
 
-<h2 align="left">Objetivos do Projeto</h2>
+<h2 align="left">🏆Objetivos do Projeto</h2>
 
 ###
 
@@ -34,7 +34,7 @@ A plataforma tem como intuito apoiar analistas de <strong>Cyber Threat Intellige
 
 ###
 
-<h2 align="left">Problema</h2>
+<h2 align="left">⚠️Problema</h2>
 
 ###
 
@@ -49,7 +49,7 @@ Essa dispersão dificulta o monitoramento contínuo e a análise de tendências 
 
 ###
 
-<h2 align="left">Solução</h2>
+<h2 align="left">💡Solução</h2>
 
 ###
 
@@ -65,6 +65,13 @@ Entre os principais objetivos do sistema estão:
   
 
 ###
+
+<h2 align="left">👪Colaboradores do Projeto</h2>
+
+- David Silveira Maciel <strong>(Scrum Master)</strong>
+- Arthur Barroso Neiva <strong>(Product Owner)</strong>
+- Guilherme Meyer Soares <strong>(Dev Team e Arquiteto)</strong>
+- João Vitor Belchior Estanislau <strong>(AD/DBA)</strong>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=008000"  />
