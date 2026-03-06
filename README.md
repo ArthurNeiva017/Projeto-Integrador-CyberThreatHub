@@ -30,6 +30,8 @@ A plataforma tem como intuito apoiar analistas de <strong>Cyber Threat Intellige
 
 - <strong>Centralizar</strong> Informações Sobre Ataques de Ransomware e Notícias de Cibersegurança
 
+- <strong>Automatizar</strong> Alertas de Segurança Para Eventos Relevantes, Como Ataques Relacionados ao Brasil
+
 ###
 
 <h2 align="left">Problema</h2>
