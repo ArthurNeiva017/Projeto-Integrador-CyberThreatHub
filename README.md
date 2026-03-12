@@ -70,8 +70,9 @@ Entre os principais objetivos do sistema estão:
 
 - David Silveira Maciel <strong>(Scrum Master)</strong>
 - Arthur Barroso Neiva <strong>(Product Owner)</strong>
-- Guilherme Meyer Soares <strong>(Dev Team e Arquiteto)</strong>
+- Guilherme Meyer Soares <strong>(Dev Team)</strong>
 - João Vitor Belchior Estanislau <strong>(AD/DBA)</strong>
+- João Gabriel dos Santos Felipe <strong>(Arquiteto)</strong>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=008000"  />
