@@ -66,16 +66,27 @@ Entre os principais objetivos do sistema estão:
 
 ###
 
-<h2 align="left">👪Colaboradores do Projeto</h2>
+<h2 align="left">👥Colaboradores do Projeto</h2>
 
-- David Silveira Maciel <strong>(Scrum Master)</strong>
-- Arthur Barroso Neiva <strong>(Product Owner)</strong>
-- Guilherme Meyer Soares <strong>(Dev Team)</strong>
-- João Vitor Belchior Estanislau <strong>(AD/DBA)</strong>
-- João Gabriel dos Santos Felipe <strong>(Arquiteto)</strong>
+| Membro                | Papel                                      |
+| --------------------- | ------------------------------------------ |
+| 👑 **[David Silveira Maciel](https://github.com/DavidMaciel-DEV)** | **Scrum Master** |
+| 🧪 **[Arthur Barroso Neiva](https://github.com/ArthurNeiva017)** | **Product Owner** |
+| 🗃️ **[Guilherme Soares Meyer](https://github.com/guigas2407)** | **Dev Team** |
+| 💻 **[João Vitor Belchior Estanislau](https://github.com/JoaoVitor2726)** | **AD/DBA** |
+| 💻 **[João Gabriel dos Santos Felipe](https://github.com/codebygabes)** | **Arquiteto** |
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=008000"  />
 </div>
 
 ###
+
+### 📈 Status do Projeto
+#### 🚧 Em andamento
+
+###
+
+<p align-center">
+  Desenvolvido pela Equipe <b>Threat Solution</b>
+</p>
