@@ -134,6 +134,8 @@ Entre os principais objetivos do sistema estão:
 | 💻 **[João Vitor Belchior Estanislau](https://github.com/JoaoVitor2726)** | **AD/DBA** |
 | 💻 **[João Gabriel dos Santos Felipe](https://github.com/codebygabes)** | **Arquiteto** |
 
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=008000"  />
 </div>
