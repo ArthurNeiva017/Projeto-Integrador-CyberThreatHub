@@ -130,7 +130,7 @@ Entre os principais objetivos do sistema estão:
 | --------------------- | ------------------------------------------ |
 | 👑 **[David Silveira Maciel](https://github.com/DavidMaciel-DEV)** | **Scrum Master** |
 | 🧪 **[Arthur Barroso Neiva](https://github.com/ArthurNeiva017)** | **Product Owner** |
-| 🗃️ **[Guilherme Soares Meyer](https://github.com/guigas2407)** | **Dev Team** |
+| 🗃️ **[Guilherme Meyer Soares](https://github.com/guigas2407)** | **Dev Team** |
 | 💻 **[João Vitor Belchior Estanislau](https://github.com/JoaoVitor2726)** | **AD/DBA** |
 | 💻 **[João Gabriel dos Santos Felipe](https://github.com/codebygabes)** | **Arquiteto** |
 
