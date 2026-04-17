@@ -148,5 +148,5 @@ Entre os principais objetivos do sistema estão:
 ###
 
 <p align-center">
-  Desenvolvido pela Equipe <b>Threat Solution</b>
+  Desenvolvido pela <b>Equipe Threat Solution</b>
 </p>
