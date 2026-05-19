@@ -31,7 +31,8 @@
 <p align="center">
   <a href="#-📚Descrição">📚Descrição</a> •
   <a href="#-Objetivos do Projeto">🏆Objetivos do Projeto</a> •
-  <a href="#-tecnologias-utilizadas">🤖Tecnologias</a> • 
+  <a href="#-tecnologias-utilizadas">🤖Tecnologias</a> •
+  <a href="#-prototipo-da-plataforma-cyber-threat-hub">💻Prototipo</a> • 
   <a href="#-Colaboradores">👥Colaboradores do Projeto</a> 
 </p>
 
