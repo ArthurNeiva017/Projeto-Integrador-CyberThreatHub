@@ -126,12 +126,12 @@ Entre os principais objetivos do sistema estão:
 
 ###
 
-<h2 align="left">💻Acessar Plataforma</h2>
+<h2 align="left">💻Prototipo da Plataforma Cyber Threat Hub</h2>
 
 ###
 
 <Strong font-size="80%"><b>[🌐Site da Plataforma Cyber Threat Hub](https://arthurneiva017.github.io/Plataforma-Cyber-Threat-Hub)</b></Strong><br><br>
-<img src="Imagens/Design sem nome.png" width="40%" />
+<img src="assets/Design sem nome.png" width="40%" />
 </div>
 
 <h2 align="left">👥Colaboradores do Projeto</h2>
