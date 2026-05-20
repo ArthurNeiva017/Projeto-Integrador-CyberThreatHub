@@ -1,4 +1,4 @@
-<h1 align="center">CyberThreatHub</h1>
+<h1 align="center">Plataforma Cyber Threat Hub</h1>
 
 ###
 
